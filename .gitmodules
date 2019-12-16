@@ -1,0 +1,3 @@
+[submodule "dropwizard-guicey-ext"]
+	path = dropwizard-guicey-ext
+	url = https://github.com/xvik/dropwizard-guicey-ext
